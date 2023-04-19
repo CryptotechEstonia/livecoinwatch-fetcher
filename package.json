@@ -1,0 +1,15 @@
+{
+	"private": true,
+	"name": "@soudasuwa/livecoinwatch-fetcher",
+	"author": "Alessandro Delass <soudasuwa@proton.me>",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"livecoinwatch-api": "soudasuwa/livecoinwatch-api",
+		"mariadb": "^3.1.1"
+	},
+	"devDependencies": {
+		"@tsconfig/node16": "^1.0.3",
+		"@types/node": "^18.15.11",
+		"typescript": "^5.0.4"
+	}
+}
