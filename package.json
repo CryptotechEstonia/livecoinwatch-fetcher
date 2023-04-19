@@ -1,6 +1,9 @@
 {
 	"private": true,
 	"name": "@soudasuwa/livecoinwatch-fetcher",
+	"scripts": {
+		"build": "tsc"
+	},
 	"author": "Alessandro Delass <soudasuwa@proton.me>",
 	"license": "UNLICENSED",
 	"dependencies": {
